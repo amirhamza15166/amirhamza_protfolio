@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amirhamza15166.github.io/amirhamza_protfolio/sitemap.xml
